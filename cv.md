@@ -5,3 +5,5 @@ discord Victoria Babko#8325
 Belorusian State University, Logist
 ## Employment
 NP-Service, analyst (purchasing department)
+- created reports
+- communicated with suppliers
